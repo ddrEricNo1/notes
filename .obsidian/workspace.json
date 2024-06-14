@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "6e03cae3de124102",
+    "type": "split",
+    "children": [
+      {
+        "id": "550e3d7ce939ab31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7048c55b7e85609a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书/算法/算法导论/ch1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "050b17ab45c72c3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "工具/git/progit.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a3e1ddc41de26048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb7a0700ea981c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书/算法/算法导论/ch1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e47e550e22262f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e778cf3d89d18de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb68e53d201fc98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26246d46585abc1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c24849bb4f76007",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "56450578cc801693",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4d21bbcad7d81ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e49b95c7ba8181a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "书/算法/算法导论/ch1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb83d6b64f8bbdbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "书/算法/算法导论/ch1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f96c327cd4abf4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbaf1fa6c559a675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "书/算法/算法导论/ch1.md"
+              }
+            }
+          },
+          {
+            "id": "d4385b042521e176",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bdb68e53d201fc98",
+  "lastOpenFiles": [
+    "框架/leveldb",
+    "框架",
+    "课程/CS70 Discrete Matheatics and Probability Theory",
+    "课程",
+    "书/算法/算法导论/ch1.md",
+    "工具/git/progit.pdf",
+    "工具/git/尚硅谷.md",
+    "书/算法",
+    "书",
+    "工具/GNU Make",
+    "工具/vim",
+    "工具/git",
+    "工具",
+    "Welcome.md"
+  ]
+}

@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "550e3d7ce939ab31",
+        "id": "c5fe1782d2a52eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7048c55b7e85609a",
+            "id": "836017c03e5dbaa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书/算法/算法导论/ch1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "050b17ab45c72c3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "工具/git/progit.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a3e1ddc41de26048",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfb7a0700ea981c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "书/算法/算法导论/ch1.md",
+                "file": "书/算法/算法导论/笔记/ch3_Growth of Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 465.5024719238281
   },
   "right": {
     "id": "56450578cc801693",
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书/算法/算法导论/ch1.md",
+                "file": "书/算法/算法导论/笔记/ch3_Growth of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书/算法/算法导论/ch1.md",
+                "file": "书/算法/算法导论/笔记/ch3_Growth of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书/算法/算法导论/ch1.md"
+                "file": "书/算法/算法导论/笔记/ch3_Growth of Functions.md"
               }
             }
           },
@@ -175,6 +146,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,21 +157,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bdb68e53d201fc98",
+  "active": "836017c03e5dbaa9",
   "lastOpenFiles": [
-    "框架/leveldb",
-    "框架",
-    "课程/CS70 Discrete Matheatics and Probability Theory",
-    "课程",
-    "书/算法/算法导论/ch1.md",
+    "书/算法/算法导论/笔记/assets",
+    "书/算法/算法导论/笔记/assets/Pasted image 20240710020739.png",
+    "书/算法/算法导论/笔记/ch1_The Role of Algorithms in Computing.md",
+    "书/算法/算法导论/笔记/ch3_Growth of Functions.md",
+    "书/算法/算法导论/introduction-to-algorithms-3rd-edition.pdf",
+    "书/算法/算法导论/笔记",
+    "书/算法/算法导论/算法导论中文版.pdf",
+    "书/算法/算法导论/sectbyfn.pdf",
+    "课程/CS70 Discrete Matheatics and Probability Theory/week1/n1.pdf",
+    "书/算法/算法导论/算法导论课后习题与思考题答案合集.pdf",
+    "README.md",
     "工具/git/progit.pdf",
     "工具/git/尚硅谷.md",
-    "书/算法",
-    "书",
-    "工具/GNU Make",
-    "工具/vim",
-    "工具/git",
-    "工具",
+    "课程/USB CS61A/SICP in Python.pdf",
+    "课程/USB CS61A",
+    "课程/CS70 Discrete Matheatics and Probability Theory/week1/n0.pdf",
     "Welcome.md"
   ]
 }
